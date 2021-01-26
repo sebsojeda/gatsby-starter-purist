@@ -14,7 +14,7 @@ module.exports = {
         url: "https://twitter.com/sebsojeda",
       },
       {
-        name: "gitHub",
+        name: "github",
         url: "https://github.com/sebsojeda/gatsby-theme-purist",
       },
     ],
