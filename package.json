@@ -7,13 +7,14 @@
   "license": "0BSD",
   "private": true,
   "scripts": {
-    "develop": "GATSBY_GRAPHQL_IDE=playground gatsby develop",
+    "start": "yarn dev",
+    "dev": "GATSBY_GRAPHQL_IDE=playground gatsby develop",
     "build": "gatsby build",
     "clean": "gatsby clean"
   },
   "dependencies": {
     "gatsby": "^2.21.21",
-    "gatsby-theme-purist": "^1.0.9",
+    "gatsby-theme-purist": "^1.0.10",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   }
