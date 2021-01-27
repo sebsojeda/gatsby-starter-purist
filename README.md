@@ -5,7 +5,7 @@ alt="gatsby-theme-purist hero image" />
 
 # Purist – A Gatsby starter
 
-A clean, full-featured starter with built-in search, dark mode, and social sharing
+A clean, full-featured starter with built-in, dark mode, and social sharing
 – all for creating content with Gatsby.
 
 ## Getting Started
