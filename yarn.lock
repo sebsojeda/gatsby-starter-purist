@@ -8164,13 +8164,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flexsearch@npm:^0.3.4":
-  version: 0.3.61
-  resolution: "flexsearch@npm:0.3.61"
-  checksum: 9b9ba572adbeaa0a8dbdc4171cdce2757e91b0b93fb7de9aa5721ac9453ad78d06a7527c12b197d2e0fcf429955e3d3fa79cae84f71307b32d33872eab728e6f
-  languageName: node
-  linkType: hard
-
 "flush-write-stream@npm:^1.0.0":
   version: 1.1.1
   resolution: "flush-write-stream@npm:1.1.1"
@@ -8349,13 +8342,6 @@ __metadata:
   version: 1.0.0
   resolution: "fs.realpath@npm:1.0.0"
   checksum: 698a91b1695e3926185c9e5b0dd57cf687dceb4eb73799af91e6b2ab741735e2962c366c5af6403ffddae2619914193bd339efa706fdc984d0ffc74b7a3603f4
-  languageName: node
-  linkType: hard
-
-"fs@npm:^0.0.1-security":
-  version: 0.0.1-security
-  resolution: "fs@npm:0.0.1-security"
-  checksum: d23d3c0dd42fd11508e5f8d265375c676816adf398f61bfc3e2635e6e8ca323fd1f530d5dd5f87e4fca54296efb5ddf8a382b99f1ac243ac0a8b4b1cae8f5fac
   languageName: node
   linkType: hard
 
@@ -8587,17 +8573,6 @@ fsevents@~2.3.1:
     "@emotion/react": ^11.0.0
     gatsby: ^2.0.0
   checksum: d951cf91e8180f7d267cd1ae391d7ff6e4c3394e5e9b6834ab2c2bb3adcc35000ff2bd1dee34a8095c7580829f5ed1d28403742bf2ae72dab6b04cdfcbe9ff46
-  languageName: node
-  linkType: hard
-
-"gatsby-plugin-flexsearch@npm:^1.0.3":
-  version: 1.0.3
-  resolution: "gatsby-plugin-flexsearch@npm:1.0.3"
-  dependencies:
-    flexsearch: ^0.3.4
-    fs: ^0.0.1-security
-    lodash: ^4.17.11
-  checksum: c5531e1efd848a1d1ff37b56aec75276916ea0d0127454ce60d7743fdfcf4e2c8f90dbd551999e3651c26a496ffe46da6e1a8faaaca2f74278dcc7baf33d7f6e
   languageName: node
   linkType: hard
 
@@ -8891,7 +8866,7 @@ fsevents@~2.3.1:
   resolution: "gatsby-starter-purist@workspace:."
   dependencies:
     gatsby: ^2.21.21
-    gatsby-theme-purist: ^1.1.0
+    gatsby-theme-purist: ^1.1.2
     react: ^16.14.0
     react-dom: ^16.14.0
   languageName: unknown
@@ -8919,9 +8894,9 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"gatsby-theme-purist@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "gatsby-theme-purist@npm:1.1.0"
+"gatsby-theme-purist@npm:^1.1.2":
+  version: 1.1.2
+  resolution: "gatsby-theme-purist@npm:1.1.2"
   dependencies:
     "@emotion-icons/boxicons-logos": ^3.0.0
     "@emotion-icons/boxicons-regular": ^3.0.0
@@ -8935,7 +8910,6 @@ fsevents@~2.3.1:
     gatsby-plugin-catch-links: ^2.3.11
     gatsby-plugin-draft: ^0.1.0
     gatsby-plugin-emotion: ^5.3.0
-    gatsby-plugin-flexsearch: ^1.0.3
     gatsby-plugin-mdx: ^1.7.0
     gatsby-plugin-react-helmet: ^3.3.1
     gatsby-plugin-sharp: ^2.6.8
@@ -8955,7 +8929,7 @@ fsevents@~2.3.1:
     gatsby: ^2.21.21
     react: ^16.14.0
     react-dom: ^16.14.0
-  checksum: b18d9792f2cb17fe5b6c0770a59f4c0582f2ffcd29882f96a03a9389e03f7d0a34bf208dd8fed9cdfd06586d4a47cf846464d5fe49bf0d710393537e6d0855d5
+  checksum: e4de8b73c0ade4b80bbbab34c2d693dfa13c1ccc40504b8106b60e1a01f09a6d474b64079ddca2b74228a18137d046b8e2644a9582561a6e25a3a1cf1d52b43a
   languageName: node
   linkType: hard
 
