@@ -8866,7 +8866,7 @@ fsevents@~2.3.1:
   resolution: "gatsby-starter-purist@workspace:."
   dependencies:
     gatsby: ^2.21.21
-    gatsby-theme-purist: ^1.2.0
+    gatsby-theme-purist: ^1.3.0
     react: ^16.14.0
     react-dom: ^16.14.0
   languageName: unknown
@@ -8894,9 +8894,9 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"gatsby-theme-purist@npm:^1.2.0":
-  version: 1.2.0
-  resolution: "gatsby-theme-purist@npm:1.2.0"
+"gatsby-theme-purist@npm:^1.3.0":
+  version: 1.3.0
+  resolution: "gatsby-theme-purist@npm:1.3.0"
   dependencies:
     "@emotion-icons/boxicons-logos": ^3.0.0
     "@emotion-icons/boxicons-regular": ^3.0.0
@@ -8929,7 +8929,7 @@ fsevents@~2.3.1:
     gatsby: ^2.21.21
     react: ^16.14.0
     react-dom: ^16.14.0
-  checksum: 4769f018df68b74ddb224bd8f82395601f8a652aff00c07585818e62a6c29fa88d53dbac4757598c23ed1e8cb283dd6a31869f28eccccabf2bcd1320621656f5
+  checksum: 643cc4e157ccbe85a9403ae6d13d940240e5702ec68a539fe776bf148511bcb41d756c298d17d75e952a541540067c5c9fc1da703734df15f4f7debe562dcbf5
   languageName: node
   linkType: hard
 
